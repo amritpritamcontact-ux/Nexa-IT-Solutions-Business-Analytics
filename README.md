@@ -2,134 +2,169 @@
 
 ## 🚀 Project Overview
 
-This project focuses on analyzing business performance across four key operational areas using Microsoft Power BI.
+The Nexa IT Solutions Business Analytics Project is an end-to-end Business Intelligence project developed using Microsoft Power BI.
 
-The objective is to transform raw business data into meaningful insights through interactive dashboards, KPI tracking, and data visualization to support data-driven business decisions.
+This project analyzes business performance across four major operational areas: Client Revenue, Employee Performance, Project Delivery, and Customer Support.
 
-The project covers Client Revenue, Employee Performance, Project Delivery, and Customer Support.
+The objective is to transform business data into meaningful insights through interactive dashboards, KPI tracking, and data visualization to support informed business decision-making.
+
 ---
+
 ## 🎯 Business Objectives
 
-The analysis focuses on four major business areas:
+- Analyze client revenue, retention, and contract performance.
+- Evaluate employee productivity, attendance, and overtime.
+- Monitor project completion, delays, and delivery performance.
+- Analyze customer support efficiency and satisfaction.
 
-1. **Client Revenue Analysis:** Evaluate revenue performance, client retention, churn rate, regional revenue, and contract distribution.
-2. **Employee Performance Analysis:** Analyze employee productivity, department performance, overtime hours, and attendance.
-3. **Project Delivery Analysis:** Monitor project completion, delays, cancellations, project status, and client-wise project distribution.
-4. **Support Performance Analysis:** Evaluate ticket resolution time, support team performance, ticket priorities, and customer satisfaction.
 ---
-## 📈 Dashboard Previews & Key Insights
 
-### 1.![Client Revenue Dashboard](./Screenshots/01_Client_Revenue.png)
+# 📈 Dashboard Analysis
 
-**Objective:** Analyze client revenue, regional performance, contract distribution, and client retention.
+## 1. Client Revenue Dashboard
 
-**Key Performance Indicators (KPIs):**
+**Objective:** Analyze revenue performance, client retention, regional revenue distribution, and contract status.
+
+### Key Performance Indicators
+
 - Total Clients: 15
 - Total Revenue: ₹297.73K
 - Renewal Rate: 33%
 - Churn Rate: 17.83%
 - Pending Rate: 32%
 
-**Business Insights:**
-- West region generates the highest revenue among the displayed regions.
+### Key Business Insights
+
+- West region generates the highest revenue.
 - The displayed renewal rate highlights an opportunity to improve client retention.
 - The top five clients contribute approximately 43% of total revenue, according to the dashboard commentary.
-- Pending contracts require management attention.
+- Pending contracts require further attention.
 
-![Client Revenue Dashboard](Screenshots/01_Client_Revenue.png)
+### Dashboard Preview
+
+![Client Revenue Dashboard](./Screenshots/01_Client_Revenue.png)
+
 ---
-### 2. Employee Performance Dashboard
 
-**Objective:** Evaluate workforce productivity, employee performance, overtime, and attendance across departments.
+## 2. Employee Performance Dashboard
 
-**Key Performance Indicators (KPIs):**
+**Objective:** Evaluate employee performance, department productivity, overtime hours, and attendance.
+
+### Key Performance Indicators
+
 - Total Employees: 1.5K
 - Average Overtime Hours: 19.7
 - Average Performance Rating: 3.13
 - Average Attendance: 77%
 
-**Business Insights:**
-- Engineering has the highest average overtime hours (21.41).
-- HR has the lowest average overtime hours (16.50).
-- HR records the highest average performance rating (3.77).
-- Higher overtime does not necessarily indicate better employee performance.
+### Key Business Insights
 
-![Employee Performance Dashboard](Screenshots/02_Employee_Performance.png)
+- Engineering records the highest average overtime hours.
+- HR records the lowest average overtime hours.
+- HR has the highest average performance rating among departments.
+- Employee productivity should be evaluated alongside attendance and overtime.
+
+### Dashboard Preview
+
+![Employee Performance Dashboard](./Screenshots/02_Employee_Performance.png)
+
 ---
-### 3. Project Delivery Dashboard
 
-**Objective:** Monitor project execution, completion rates, delivery performance, and client-wise project workload.
+## 3. Project Delivery Dashboard
 
-**Key Performance Indicators (KPIs):**
+**Objective:** Monitor project execution, completion, delays, cancellations, and client-wise project distribution.
+
+### Key Performance Indicators
+
 - Total Projects: 800
 - Completed Projects: 214
 - Delayed or On-Hold Projects: 250
 - Cancelled Projects: 118
 - Active Projects: 218
 
-**Business Insights:**
+### Key Business Insights
+
 - Approximately 26.75% of projects are completed.
 - Approximately 31.25% of projects are delayed or on hold.
-- Nearly 15% of projects have been cancelled.
-- Clients with higher project volumes require closer delivery monitoring.
+- Approximately 15% of projects are cancelled.
+- Project delays require closer monitoring and management attention.
 
-![Project Delivery Dashboard](Screenshots/03_Project_Delivery.png)
+### Dashboard Preview
+
+![Project Delivery Dashboard](./Screenshots/03_Project_Delivery.png)
+
 ---
-### 4. Support Performance Dashboard
 
-**Objective:** Evaluate customer support efficiency, ticket resolution performance, team performance, and customer satisfaction.
+## 4. Support Performance Dashboard
 
-**Key Performance Indicators (KPIs):**
+**Objective:** Analyze support ticket resolution, team performance, ticket priorities, and customer satisfaction.
+
+### Key Performance Indicators
+
 - Total Tickets: 3K
 - Total Clients: 15
 - Average Resolution Time: 14.76
 - Average Satisfaction Score: 2.85
 
-**Business Insights:**
-- Average resolution time is relatively similar across all four support teams.
+### Key Business Insights
+
+- Resolution times are relatively similar across support teams.
 - Critical-priority tickets have the lowest average resolution time among the displayed priority categories.
-- Customer satisfaction averages 2.85, highlighting an opportunity to improve support quality.
-- GlobalBank, MediCore, SmartGov, and EduSpark appear among the leading clients in the displayed ticket and resolution analysis.
+- The average satisfaction score highlights an opportunity to improve customer experience.
+- Support team performance can be monitored to identify areas for improvement.
 
-![Support Performance Dashboard](Screenshots/04_Support_Performance.png)
+### Dashboard Preview
+
+![Support Performance Dashboard](./Screenshots/04_Support_Performance.png)
+
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
-| Tool / Technology | Purpose |
+| Tool | Purpose |
 |---|---|
-| Microsoft Power BI | Dashboard development and data visualization |
+| Microsoft Power BI | Dashboard development |
 | Power Query | Data cleaning and transformation |
-| DAX | KPI calculations and analytical measures |
+| DAX | KPI calculations and measures |
 | Data Analytics | Business performance analysis |
-| Data Visualization | Presenting insights through interactive reports |
+| Data Visualization | Presenting business insights |
+
 ---
 
-## 📊 Skills Demonstrated
+# 📊 Skills Demonstrated
 
 - Data Cleaning and Transformation
 - Data Modeling
 - DAX Calculations
 - KPI Development
-- Interactive Dashboard Design
+- Interactive Dashboard Development
 - Business Intelligence
 - Data Visualization
 - Business Performance Analysis
 - Analytical Thinking
 - Insight Generation
+
 ---
-## 📁 Project Structure
+
+# 💡 Business Value
+
+This project demonstrates how Power BI can help organizations:
+
+- Monitor business revenue and client retention.
+- Evaluate employee performance and productivity.
+- Identify project delivery challenges.
+- Improve customer support operations.
+- Track important business KPIs.
+- Make data-driven business decisions.
+
+---
+
+# 📁 Project Structure
 
 ```text
 Nexa-IT-Solutions-Business-Analytics/
 │
 ├── README.md
-│
-├── Dashboards/
-│   ├── Nexa_Client_Revenue.pbix
-│   ├── Nexa_Employee_Performance.pbix
-│   ├── Nexa_Project_Delivery.pbix
-│   └── Nexa_Support_Performance.pbix
 │
 ├── Screenshots/
 │   ├── 01_Client_Revenue.png
@@ -137,36 +172,32 @@ Nexa-IT-Solutions-Business-Analytics/
 │   ├── 03_Project_Delivery.png
 │   └── 04_Support_Performance.png
 │
-├── Dataset/
-│   └── Source_Data.csv
+├── Dashboards/
+│   ├── Nexa_Client_Revenue.pbix
+│   ├── Nexa_Employee_Performance.pbix
+│   ├── Nexa_Project_Delivery.pbix
+│   └── Nexa_Support_Performance.pbix
 │
-└── Documentation/
-    ├── Project_Overview.md
-    └── Business_Insights.md
+└── Dataset/
+    └── Source_Data.csv
 ```
-*Note: Include optional folders and files only when they are available and permitted for sharing.*
+*Note: Include only the files and folders that you have actually uploaded. Share datasets only when permitted.*
 ---
-## 💡 Business Value
 
-This project demonstrates how Business Intelligence can help organizations:
-
-- Monitor revenue and client retention.
-- Evaluate employee productivity and performance.
-- Identify project delivery risks.
-- Improve customer support operations.
-- Track important business KPIs.
-- Make informed, data-driven decisions.
----
-## 📝 Conclusion
+# 📝 Conclusion
 
 The Nexa IT Solutions Business Analytics Project provides a consolidated view of business performance across four important operational areas.
 
-Through interactive Power BI dashboards, the project identifies performance trends, highlights operational challenges, and provides actionable insights that can support management decision-making.
+By using Power BI, this project transforms business data into interactive dashboards and actionable insights that can support management decisions, improve operational efficiency, and identify opportunities for business growth.
+
+---
+
+**Project Name:** Nexa IT Solutions – Business Analytics
 
 **Project Category:** Business Intelligence & Data Analytics
 
-**Organization:** Nexa IT Solutions
-
 **Primary Tool:** Microsoft Power BI
+
+**Technologies:** Power BI | Power Query | DAX
 
 **Project Status:** Completed
