@@ -19,7 +19,7 @@ The analysis focuses on four major business areas:
 ---
 ## 📈 Dashboard Previews & Key Insights
 
-### 1. Client Revenue Dashboard ![Client Revenue Dashboard](./Screenshots/01_Client_Revenue.png)
+### 1.![Client Revenue Dashboard](./Screenshots/01_Client_Revenue.png)
 
 **Objective:** Analyze client revenue, regional performance, contract distribution, and client retention.
 
