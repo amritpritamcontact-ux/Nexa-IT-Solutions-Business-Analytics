@@ -42,8 +42,7 @@ The objective is to transform business data into meaningful insights through int
 
 ### Dashboard Preview
 
-![Client Revenue Dashboard](./Screenshots/01_Client_Revenue.png)
-
+![Client Revenue Dashboard](./Client_Revenue.png)
 ---
 
 ## 2. Employee Performance Dashboard
@@ -66,7 +65,7 @@ The objective is to transform business data into meaningful insights through int
 
 ### Dashboard Preview
 
-![Employee Performance Dashboard](./Screenshots/02_Employee_Performance.png)
+![Employee Performance Dashboard](./Employee_Performance.png)
 
 ---
 
@@ -91,7 +90,7 @@ The objective is to transform business data into meaningful insights through int
 
 ### Dashboard Preview
 
-![Project Delivery Dashboard](./Screenshots/03_Project_Delivery.png)
+![Project Delivery Dashboard](./Project_Delivery.png)
 
 ---
 
@@ -115,7 +114,7 @@ The objective is to transform business data into meaningful insights through int
 
 ### Dashboard Preview
 
-![Support Performance Dashboard](./Screenshots/04_Support_Performance.png)
+![Support Performance Dashboard](./Support_Ticket.png)
 
 ---
 
